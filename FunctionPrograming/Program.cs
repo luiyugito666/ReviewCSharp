@@ -7,7 +7,7 @@ Console.WriteLine(mySum(4,2));
 Show cw=Console.WriteLine;
 cw += Functions.Consol;
 //cw("hola");
-//agregando comentarios
+
 
 
 Functions.Some("lui", "yucra", cw);
