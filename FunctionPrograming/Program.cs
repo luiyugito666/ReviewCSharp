@@ -7,6 +7,7 @@ Console.WriteLine(mySum(4,2));
 Show cw=Console.WriteLine;
 cw += Functions.Consol;
 //cw("hola");
+//agregando comentarios
 
 
 Functions.Some("lui", "yucra", cw);
@@ -22,6 +23,7 @@ public class Functions {
     //public static int Sum(int x, int y) { 
     //return x + y;
     //}
+    //
     public static int Sum(int x, int y) => x + y;
     public static int Mult(int x, int y) => x * y;
 
